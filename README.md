@@ -1,11 +1,11 @@
 # dashgo_bot
 Install:
 ---------------------------------------------
-$ cd ~/dashgo_ws/src/dashgo
-$ git clone https://github.com/AIR-Hust/dashgo_bot
-$ cd ..
-$ catkin_make 
-$ source devel/setup.bash
+$ cd ~/dashgo_ws/src/dashgo \n
+$ git clone https://github.com/AIR-Hust/dashgo_bot \n
+$ cd .. \n
+$ catkin_make \n 
+$ source devel/setup.bash \n
 
 Run:
 ----------------------------------------------
